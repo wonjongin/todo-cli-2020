@@ -1,0 +1,4 @@
+.DS_Store
+/data/todo.db
+/data/todo-test.db
+/data/*

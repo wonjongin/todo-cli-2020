@@ -1,5 +1,6 @@
 from src import help
 from src import add
+from src import rm
 
 
 
